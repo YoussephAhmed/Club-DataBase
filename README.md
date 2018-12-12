@@ -1,2 +1,2 @@
 # Club-DataBase-
-EER, Relational Model, and SQL for database club
+EER, Relational Model, and SQL for a database for a club
